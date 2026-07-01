@@ -1,0 +1,420 @@
+canonical_identifier: bkk:krp/KR6b0050/T/v1
+canonical_location: https://kanripo.org/bkk/KR6b0050/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛本行經
+  identifiers:
+    krp: KR6b0050
+    cbeta: T04n0193
+    cbeta_old_id: T04n0193
+    authorityid: CA0001027
+    json_key: T0193
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T04/T04n0193.xml
+    old_id: T04n0193
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6b0050_000-T.yaml, hash: 'sha256:a6b4d2aed76ca247034b6e3dbfb52e5bf0b88949e8e268f9906aabff26f28dcb'}
+  - {seq: 1, filename: KR6b0050_001-T.yaml, hash: 'sha256:aee01f736275039f2e3e2f2cbeccfeabf93d8bc33f10fb954b7f6bd08c0d18a9'}
+  - {seq: 2, filename: KR6b0050_002-T.yaml, hash: 'sha256:594640ea024c944b8569cd06560baf9cdfc074aa47515d8bc9777a968ae088c7'}
+  - {seq: 3, filename: KR6b0050_003-T.yaml, hash: 'sha256:d4218d1e232585936917b765a39ccc3ecfed7d1d27c6267f78b37814c8fffc2f'}
+  - {seq: 4, filename: KR6b0050_004-T.yaml, hash: 'sha256:df93b221771cc7a2cfe2bf95fd80f1ec7bd93577fc38a9c0e3d53b4a0016e50c'}
+  - {seq: 5, filename: KR6b0050_005-T.yaml, hash: 'sha256:a0562245638470917059e57f5b1812df446307eb10678de2b515f6aa63f31e8b'}
+  - {seq: 6, filename: KR6b0050_006-T.yaml, hash: 'sha256:84168aadbd9cbc9bb74a8029da1d1f2292be264a1bdb325d10437d164f9b3dd2'}
+  - {seq: 7, filename: KR6b0050_007-T.yaml, hash: 'sha256:66bc585aefa238b2283786c68baeac61fb7dbcc4c68beef09e567d30d5811968'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6b0050_000-T.markers.yaml, hash: 'sha256:fecb75ce6a3445fcded6f9b72a0bfb5cab7aea293ddfd8ae0f56a173edf0ace7'}
+  - {seq: 1, role: markers, filename: assets/KR6b0050_001-T.markers.yaml, hash: 'sha256:a53403c5c76106c7f8ef7ea8b4b13a6a788f94be9b860ab97b5633987848788b'}
+  - {seq: 2, role: markers, filename: assets/KR6b0050_002-T.markers.yaml, hash: 'sha256:26536e2e6e1eb0fda7792e021d21e6bcd427199e100ad14279c3561d0adfc018'}
+  - {seq: 3, role: markers, filename: assets/KR6b0050_003-T.markers.yaml, hash: 'sha256:e2639e53947c8f2434c2bebc35d32c126a5aa9a58dec3cfc0537a7766d0fc981'}
+  - {seq: 4, role: markers, filename: assets/KR6b0050_004-T.markers.yaml, hash: 'sha256:7f2ba4f22feb8678206a72a118b8fede7e1b0e766f353d7d195c742e2eedc631'}
+  - {seq: 5, role: markers, filename: assets/KR6b0050_005-T.markers.yaml, hash: 'sha256:4a7190d0b0032e8ff13639313e41c6b417d0c94346c17f05acff75fd75b30a5d'}
+  - {seq: 6, role: markers, filename: assets/KR6b0050_006-T.markers.yaml, hash: 'sha256:50e804e416010a2d90bbc24d52fdcbd11926b4eee9ad213ab914fc8dd1f2efdc'}
+  - {seq: 7, role: markers, filename: assets/KR6b0050_007-T.markers.yaml, hash: 'sha256:bf526fa8fb96e4c7126accba4ea19cbf898e3775945ee2d653b326a2a3939321'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6b0050_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7774
+  label: 佛本行經卷第一一名佛本行讚傳
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0050_T_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 1 因緣品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0050_T_001-mulu-2
+    span:
+    - body
+    - 854
+    - 854
+  label: 2 稱歎如來品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0050_T_001-mulu-3
+    span:
+    - body
+    - 2149
+    - 2149
+  label: 3 降胎品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0050_T_001-mulu-4
+    span:
+    - body
+    - 3362
+    - 3362
+  label: 4 如來生品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0050_T_001-mulu-5
+    span:
+    - body
+    - 4476
+    - 4476
+  label: 5 梵志占相品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0050_T_001-mulu-6
+    span:
+    - body
+    - 5351
+    - 5351
+  label: 6 阿夷決疑品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0050_T_001-mulu-7
+    span:
+    - body
+    - 6572
+    - 6572
+  label: 7 入譽論品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0050_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 8601
+  label: 佛本行經卷第二一名佛本行讚傳
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0050_T_002-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 8 與眾婇女遊居品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0050_T_002-mulu-2
+    span:
+    - body
+    - 986
+    - 986
+  label: 9 現憂懼品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0050_T_002-mulu-3
+    span:
+    - body
+    - 2736
+    - 2736
+  label: 10 閻浮提樹蔭品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0050_T_002-mulu-4
+    span:
+    - body
+    - 3988
+    - 3988
+  label: 11 出家品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0050_T_002-mulu-5
+    span:
+    - body
+    - 5526
+    - 5526
+  label: 12 車匿品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0050_T_002-mulu-6
+    span:
+    - body
+    - 6724
+    - 6724
+  label: 13 瓶沙王問事品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0050_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7056
+  label: 佛本行經卷第三一名佛本行讚傳
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0050_T_003-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 14 為瓶沙王說法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0050_T_003-mulu-2
+    span:
+    - body
+    - 1919
+    - 1919
+  label: 15 不然阿蘭品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0050_T_003-mulu-3
+    span:
+    - body
+    - 3627
+    - 3627
+  label: 16 降魔品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0050_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 8761
+  label: 佛本行經卷第四一名佛本行讚傳
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0050_T_004-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 17 度五比丘品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0050_T_004-mulu-2
+    span:
+    - body
+    - 577
+    - 577
+  label: 18 度寶稱品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0050_T_004-mulu-3
+    span:
+    - body
+    - 2588
+    - 2588
+  label: 19 廣度品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0050_T_004-mulu-4
+    span:
+    - body
+    - 4238
+    - 4238
+  label: 20 現大神變品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0050_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 9047
+  label: 佛本行經卷第五一名佛本行讚傳
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0050_T_005-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 21 昇忉利宮為母說法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0050_T_005-mulu-2
+    span:
+    - body
+    - 622
+    - 622
+  label: 22 憶先品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0050_T_005-mulu-3
+    span:
+    - body
+    - 1573
+    - 1573
+  label: 23 遊維耶離品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0050_T_005-mulu-4
+    span:
+    - body
+    - 3106
+    - 3106
+  label: 24 歎定光佛品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0050_T_005-mulu-5
+    span:
+    - body
+    - 4831
+    - 4831
+  label: 25 降象品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0050_T_005-mulu-6
+    span:
+    - body
+    - 6642
+    - 6642
+  label: 26 魔勸捨壽品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6b0050_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 6802
+  label: 佛本行經卷第六一名佛本行讚傳
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6b0050_T_006-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 27 調達入地獄品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6b0050_T_006-mulu-2
+    span:
+    - body
+    - 3870
+    - 3870
+  label: 28 現乳哺品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0050_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7751
+  label: 佛本行經卷第七一名佛本行讚傳
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0050_T_007-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 29 大滅品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0050_T_007-mulu-2
+    span:
+    - body
+    - 2536
+    - 2536
+  label: 30 嘆無為品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0050_T_007-mulu-3
+    span:
+    - body
+    - 4947
+    - 4947
+  label: 31 舍利品
+  type: mulu
+  level: 1
+hash: sha256:b6d22f872a11fdede9b60d16fba2df4206bd565f70aa8bb6c50b8ad0f7f8dedc
